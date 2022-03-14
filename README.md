@@ -8,4 +8,3 @@ In this activity, I was asked to apply natural language processing to understand
 I used the newsapi to pull the latest articles on both coins and created a DataFrame of sentiment for each, with the information pulled I had to answer some questions referring to the highest mean, highest negative and highest positive between the two coins. Then I had to use NLTK to tokenize text, find n-gram and create word clouds for both coins. Lastly, I had to build a named entity recognition model for both coins and visualize the tags using SpaCy
 
 In this assignment, I used class activities, I had to watch class videos and get help from professors before and after class complete the started codes and overcome the several challenges I had while coding.
-![image](https://user-images.githubusercontent.com/95111131/158179287-85abe43a-9396-4510-9e66-01e6c900da2e.png)
